@@ -12,6 +12,7 @@ Testing project
 Hello ji
 hello again
 Branching text
+Rebasing example
 
 Hello 3rd time
 
