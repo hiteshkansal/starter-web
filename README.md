@@ -17,4 +17,4 @@ Rebasing example, more changes from feature branch
 Hello 3rd time
 
 ### Copyright
-2017 Git Copyright
+2017 Git Copyright. All rights Reserved
